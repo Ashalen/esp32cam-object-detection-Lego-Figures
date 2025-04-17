@@ -18,31 +18,26 @@ It's part of my personal portfolio and not intended as a tutorial.
 
 | Obi-Wan Detected | Batman Detected |
 |------------------|-----------------|
-| ![Obi-Wan](ESP32 CAM LEGO/results/2.png) | ![Batman](ESP32 CAM LEGO/results/3.png) | ![Both Figures](ESP32 CAM LEGO/results/4.png) |
-
-## Folder Overview
-
-ESP32 CAM LEGO/ ├── Model/ # Edge Impulse .eim model ├── code/ │ └── esp32_cam_detection_script/ # Arduino sketch for ESP32-CAM ├── images/ # Screenshots of detection results ├── results/ # Serial monitor output logs ├── .gitignore ├── LICENSE └── README.md
-
+| ![Obi-Wan](ESP32_CAM_LEGO/results/2.png) | ![Batman](ESP32_CAM_LEGO/results/3.png) | ![Both Figures](ESP32_CAM_LEGO/results/4.png) |
 
 ## Model
 
-The Edge Impulse model is located in the `ESP32 CAM LEGO/Model/ei-esp32-cam-object-detection-lego-figures-ashalen-govender-object-detection-tensorflow-lite-int8-quantized-model.3.lite` folder.
+The Edge Impulse model is located in the `ESP32_CAM_LEGO/Model/ei-esp32-cam-object-detection-lego-figures-ashalen-govender-object-detection-tensorflow-lite-int8-quantized-model.3.lite` folder.
 
 ## 📄 Code
 
-The Arduino sketch is located in `ESP32 CAM LEGO/code/esp32_cam_detection_script/esp32_cam_detection_script.ino`.
+The Arduino sketch is located in `ESP32_CAM_LEGO/code/esp32_cam_detection_script/esp32_cam_detection_script.ino`.
 
 It uses the Edge Impulse inference SDK to run object detection directly on the ESP32-CAM. No additional storage or cloud connection is needed.
 
 
-## 🧪 Notes
+## Notes
 
 This project is for demo and showcase purposes only.
 
 No wiring diagrams or build tutorials are included — just the essentials: code, model, and example results.
 
-## 🔗 Credits
+## Credits
 
 Built by **Ashalen Govender**  
 BSc Robotics | Robotics and AI Enthusiast  

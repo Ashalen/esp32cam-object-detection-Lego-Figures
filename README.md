@@ -16,8 +16,8 @@ It's part of my personal portfolio and not intended as a tutorial.
 
 ## Results
 
-| Obi-Wan Detected | Batman Detected |
-|------------------|-----------------|
+| Obi-Wan Detected | Batman Detected | Both Figures|
+|------------------|-----------------|-------------|
 | ![Obi-Wan](ESP32_CAM_LEGO/results/2.png) | ![Batman](ESP32_CAM_LEGO/results/3.png) | ![Both Figures](ESP32_CAM_LEGO/results/4.png) |
 
 ## Model

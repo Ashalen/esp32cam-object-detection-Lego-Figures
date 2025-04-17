@@ -24,7 +24,7 @@ It's part of my personal portfolio and not intended as a tutorial.
 
 The Edge Impulse model is located in the `ESP32_CAM_LEGO/Model/ei-esp32-cam-object-detection-lego-figures-ashalen-govender-object-detection-tensorflow-lite-int8-quantized-model.3.lite` folder.
 
-## 📄 Code
+## Code
 
 The Arduino sketch is located in `ESP32_CAM_LEGO/code/esp32_cam_detection_script/esp32_cam_detection_script.ino`.
 
